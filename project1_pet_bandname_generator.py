@@ -1,6 +1,0 @@
-print("-"*40)
-print("welcome to the Pet Band name Generator !!")
-print("-"*40)
-city = input("Where do you live ? (city name): ")
-pet = input("What is your pet name ? : ")
-print("Your Band Name could be "+"'"+city+" "+pet+"'")

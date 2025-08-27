@@ -1,7 +1,7 @@
 # 30 Python Projects 🚀🐍
 
 This repository documents my personal challenge:  
-**Building 50 Python projects** — covering beginner, intermediate, and slightly advanced levels.  
+**Building 30 Python projects** — covering beginner, intermediate, and slightly advanced levels.  
 
 ✅ Goal: Strengthen my coding skills by learning through building.  
 ✅ Approach: One project per day, no matter how small.  
